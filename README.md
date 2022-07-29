@@ -1,14 +1,15 @@
 ### Hi! I'm Guilherme Hammes 👋 a Brazilian Frontend Developer!
 
-- 🔭 I’m currently working with React on a business portal to integrate with ERP systems
-- 🌱 I’m currently learning Next.js and TypeScript
+- 🔭 I’m currently working with React.js on a business portal to integrate with ERP systems
+- 🌱 I’m currently studying Next.js and UI design
 - 👯 I’m looking to collaborate on React.js and Next.js projects
+- 👨‍🏭 I have experience working with: React, Next, Typescript, Formik, MUI, Figma
 - 📫 How to reach me: 
 
-[Email](mailto:gffhammes@gmail.com)
+    [Email](mailto:gffhammes@gmail.com)
 
-[WhatsApp](https://wa.me/554792569136)
+    [WhatsApp](https://wa.me/554792569136)
 
-[LinkedIn](https://www.linkedin.com/in/guilherme-felipe-ferreira-hammes/)
+    [LinkedIn](https://www.linkedin.com/in/guilherme-felipe-ferreira-hammes/)
 
-[Website](https://guilhermehammes.com.br/)
+    [Website](https://guilhermehammes.com.br/)
